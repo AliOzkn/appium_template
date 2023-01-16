@@ -1,0 +1,13 @@
+{
+  "Do not change the values of the PLATFORM NAME and AUTOMATION NAME fields.": "",
+  "Check your device udid from cmd with -adb devices- command": "",
+  "Use emulator's name and android version for DEVICE NAME and PLATFORM VERSION": "",
+
+  "platformName": "Android",
+  "appium:udid": "emulator-5554",
+  "appium:deviceName": "Pixel_3_XL_API_31",
+  "appium:platformVersion": "12.0.0",
+  "appium:automationName": "UiAutomator2"
+
+}
+
